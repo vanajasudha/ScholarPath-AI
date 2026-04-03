@@ -1,4 +1,4 @@
-// File: C:\Users\pujar\OneDrive\Desktop\ScholarPath AI\frontend\app\page.js
+// File: C:\Users\vedap\OneDrive\Desktop\Scholorpath_ai\ScholarPath-AI\frontend\app\page.js
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
